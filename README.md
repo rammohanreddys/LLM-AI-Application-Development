@@ -1,5 +1,7 @@
 # LLM-AI-Application-Development
 
+**Pre-requisites:**
+
 ### Recommended Learning Path
 1. Python basics → ML basics → Deep learning
 2. NLP and Transformers → Hugging Face Transformers
