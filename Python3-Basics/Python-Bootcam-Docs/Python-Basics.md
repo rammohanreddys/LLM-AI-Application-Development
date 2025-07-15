@@ -15,6 +15,7 @@ Data types:
 5. set
 6. tuple
 7. Dictionary
+8. File I/O
 
 **Summary Table:**
 
