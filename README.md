@@ -126,3 +126,13 @@ Understanding Pre-trained Models and Transfer Learning:
   - Streamlit or Gradio for building UI
   - Vector databases (like Pinecone, FAISS) for RAG (Retrieval Augmented Generation)
 - Working with APIs (OpenAI, Cohere, Claude, etc.)
+
+Details:
+
+https://ustglobal.sharepoint.com/home/sitepages/home.aspx
+https://learn.deeplearning.ai/my/learnings
+
+<img width="1239" height="532" alt="image" src="https://github.com/user-attachments/assets/34d9e9c5-261c-4f02-8bd1-ec10facafc9c" />
+<img width="1124" height="312" alt="image" src="https://github.com/user-attachments/assets/73c9d01e-9f1d-484c-a74e-51c8a07bdb28" />
+<img width="1142" height="440" alt="image" src="https://github.com/user-attachments/assets/c6798445-558a-44d8-8255-ae8e6f62c69b" />
+<img width="1233" height="485" alt="image" src="https://github.com/user-attachments/assets/a2e76c7d-bd55-47d3-a701-9fd03f81cddd" />
