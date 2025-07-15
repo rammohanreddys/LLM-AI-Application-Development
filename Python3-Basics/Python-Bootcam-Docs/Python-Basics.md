@@ -16,6 +16,19 @@ Data types:
 6. tuple
 7. Dictionary
 
+**Summary Table:**
+
+| Feature         | **List**             | **Tuple**        | **Set**       | **Dictionary**          |
+| --------------- | -------------------- | ---------------- | ------------- | ----------------------- |
+| **Type**        | `list`               | `tuple`          | `set`         | `dict`                  |
+| **Syntax**      | `[1, 2, 3]`          | `(1, 2, 3)`      | `{1, 2, 3}`   | `{'a': 1, 'b': 2}`      |
+| **Ordered?**    | ✅ Yes (Python 3.7+)  | ✅ Yes            | ❌ No          | ✅ Yes (Python 3.7+)     |
+| **Mutable?**    | ✅ Yes                | ❌ No             | ✅ Yes         | ✅ Yes                   |
+| **Duplicates?** | ✅ Allowed            | ✅ Allowed        | ❌ Not allowed | ❌ Keys must be unique   |
+| **Indexed?**    | ✅ Yes                | ✅ Yes            | ❌ No          | ✅ Keys act like indexes |
+| **Use Case**    | General-purpose list | Fixed collection | Unique items  | Key-value pairs         |
+
+
 ## Python Operators
 
 ## Python Statements
